@@ -1,6 +1,6 @@
 # assiut-chess
 
-https://codeforces.com/contest/1557/problem/E
+modified from https://codeforces.com/contest/1557/problem/E
 
 catch King in limited steps with Queen
 
